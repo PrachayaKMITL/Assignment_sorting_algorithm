@@ -1,0 +1,4 @@
+def linear_search(list):
+    sub = str(input("Enter assignment :"))
+    for i in range(len(list)):
+ ### unfinished
